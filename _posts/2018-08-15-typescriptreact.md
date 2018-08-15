@@ -24,6 +24,6 @@ Follow the instructions in the README to get started.
 
 ## Attendance
 
-Comment on [tonight's attendance issue](https://github.com/nodeschool/dallas/issues/138).
+Comment on [tonight's attendance issue](https://github.com/codescooldallas/codescooldallas.github.io/issues/2).
 
 {% include sponsors-large.html sponsors=page.sponsors studyAbroad=page.studyAbroad logoExt='png' %}
