@@ -1,9 +1,11 @@
 ---
-title: About Nodeschool
+title: About Code's Cool
 category: navigation
 ---
 
-## What is Nodeschool?
+## What is Code's Cool?
+
+What was once the premier hands on Node.js meetup is now open to all cool technologies.
 
 <a target="_blank" href="http://nodeschool.io/">NodeSchool</a> is an
 open source project run by volunteers with two goals: to create high
@@ -20,7 +22,7 @@ into specific topics.
 
 ## Bring your laptop!
 
-Workshoppers are hands on which means you'll need to bring a laptop or
+Workshops are hands on which means you'll need to bring a laptop or
 similar.
 
 ## What if I'm...

@@ -1,9 +1,9 @@
 ---
-title: Study Abroad
+title: Host Code's Cool
 category: navigation
 ---
 
-## Hosting a Nodeschool Dallas meetup
+## Hosting a Code's Cool Dallas meetup
 
 **_This is a ROUGH DRAFT and subject to refinement_**
 
