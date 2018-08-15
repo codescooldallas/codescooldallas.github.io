@@ -26,4 +26,4 @@ Follow the instructions in the README to get started.
 
 Comment on [tonight's attendance issue](https://github.com/nodeschool/dallas/issues/138).
 
-{% include sponsors-large.html sponsors=page.sponsors studyAbroad=page.studyAbroad logoExt='svg' %}
+{% include sponsors-large.html sponsors=page.sponsors studyAbroad=page.studyAbroad logoExt='png' %}
