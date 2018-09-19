@@ -3,9 +3,9 @@ Nodeschool Dallas
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/dallas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Meetup logo](assets/images/meetup.png)](http://www.meetup.com/Nodeschool-Dallas/)<br/>
+[![Meetup logo](assets/images/meetup.png)](http://www.meetup.com/CodesCool-Dallas/)<br/>
 
-[Upcoming Events](https://nodeschool.github.io/dallas/#events)
+[Upcoming Events](https://codescooldallas.github.io)
 
 NodeSchool is an open source project run by volunteers with two goals: to create high quality programming curriculum and to host community learning events.
 
@@ -49,7 +49,7 @@ General Resources:
 Attendance
 ------
 * Sign into Github or sign up if you haven't already!
-* Navigate to [this project's issues list](https://github.com/nodeschool/dallas/issues)
+* Navigate to [this project's issues list](https://github.com/codescooldallas/codescooldallas.github.io/issues)
 * Find the issue containing today's attendance
 * Leave us a nice comment to indicate that you are here!
 * Congratulations! Your attendance at Nodeschool has been noted!
