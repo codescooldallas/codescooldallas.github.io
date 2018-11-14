@@ -33,4 +33,4 @@ git clone https://github.com/codescooldallas/codescooldallas-grpc
 
 Comment on [tonight's attendance issue](https://github.com/codescooldallas/codescooldallas.github.io/issues/5).
 
-{% include sponsors-large.html sponsors=page.sponsors studyAbroad=page.studyAbroad logoExt='png' %}
+{% include sponsors-large.html sponsors=page.sponsors studyAbroad=page.studyAbroad logoExt='svg' %}
