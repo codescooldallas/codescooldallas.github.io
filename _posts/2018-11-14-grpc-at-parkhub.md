@@ -12,6 +12,8 @@ news:
     url: http://reasonablypolymorphic.com/blog/protos-are-wrong/
   - title: Rethinking JavaScript Test Coverage
     url: https://blog.npmjs.org/post/178487845610/rethinking-javascript-test-coverage
+  - title: Beating JSON performance with Protobuf
+    url: https://auth0.com/blog/beating-json-performance-with-protobuf/
 
 ---
 
