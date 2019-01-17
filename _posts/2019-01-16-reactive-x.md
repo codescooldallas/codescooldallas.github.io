@@ -23,7 +23,7 @@ Open the tutorial then complete the problems and run them on the page.
 
 ## Attendance
 
-Comment on [tonight's attendence issue](https://github.com/nodeschool/dallas/issues/106)
+Comment on [tonight's attendence issue](https://github.com/codescooldallas/codescooldallas.github.io/issues/8)
 
 ## Stickers
 
