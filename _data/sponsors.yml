@@ -69,3 +69,7 @@ match:
 thoughtworks:
   name: ThoughtWorks
   url: https://www.thoughtworks.com/locations/dallas
+
+novo:
+  name: Novo Labs
+  ur: https://www.novolabs.com/
