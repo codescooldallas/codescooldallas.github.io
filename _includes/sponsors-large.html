@@ -19,7 +19,7 @@ Sponsor{% if include.sponsors.size > 1 %}s{% endif %}
 
 <h2>{{heading}}</h2>
 
-<p>Thanks to {{ links | split: '|' | array_to_sentence_string }} for food, drinks, stickers, and venue!</p>
+<p>Thanks to {{ links | split: '|' | array_to_sentence_string }} for food, drinks, and venue!</p>
 
 {% for sponsor in include.sponsors %}
   {% assign sponsorData = site.data.sponsors[sponsor] %}

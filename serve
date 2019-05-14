@@ -2,4 +2,7 @@
 
 port=${1:-4000}
 
-bundle exec jekyll serve --baseurl='' --port=$port
+bundle exec jekyll serve \
+  --incremental \
+  --baseurl='' \
+  --port=$port
